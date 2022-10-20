@@ -32,10 +32,6 @@ JavaScript, NodeJS, NPM, Express, MongoDB, Mongoose
 
 [![Google Drive Thoughts Routes](./assets/ThoughtRoutes.jpg)](https://drive.google.com/file/d/1YGSEA0Zz_TfuzYUApuiZ6d5OW86JG6x3/view)
 
-
-### Project Live Page:
-https://libhartll.github.io/ReadmeGenerator/
-
 ### License
 This project is licensed under:
 License for this project is MIT
